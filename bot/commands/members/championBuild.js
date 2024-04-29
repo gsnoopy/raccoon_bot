@@ -2,8 +2,8 @@ const Discord = require("discord.js");
 const axios = require("axios");
 const { AttachmentBuilder } = require('discord.js');
 
-const championInfo = require("../../../champion_info.json");;
-const runesImages = require("../../../runes.json");
+const championInfo = require("../../../api/champion_info.json");;
+const runesImages = require("../../../api/runes.json");
 
 const createImage = require('../../utils/createImage');
 const translateItems = require('../../utils/translateItems');
