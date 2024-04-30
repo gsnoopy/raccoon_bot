@@ -17,9 +17,24 @@ const { createTicket } = require('./modules/createModals/createTicket');
 const { submitTicket } = require('./modules/submitModals/submitTicket');
 const { deleteTicket } = require('./modules/pressButtons/deleteTicket');
 
+const { buyUp } = require('./modules/pressButtons/buyUp');
+const { deleteUp } = require('./modules/pressButtons/deleteUp');
+const { verifyPasses } = require('./scripts/verifyPasses');
+
+const { createDados } = require('./modules/createModals/createDados');
+const { submitDados } = require('./modules/submitModals/submitDados');
+
+const { buyBingo } = require('./modules/pressButtons/buyBingo');
+const { deleteBingo } = require('./modules/pressButtons/deleteBingo');
+const { verifyBingo } = require('./scripts/verifyBingo');
 
 client.on("ready", () => {
   console.log(`Logged in as ${client.user.tag}!`);
+
+  setInterval(async () => {
+    verifyPasses(client)
+    verifyBingo(client)
+  }, 5000);
 
 });
 
@@ -44,7 +59,21 @@ client.on('interactionCreate', (interaction) => {
       case 'deleteTicket':
         deleteTicket(interaction);
         break;
-
+      case 'buyUp':
+        buyUp(interaction);
+        break;
+      case 'deleteUp':
+        deleteUp(interaction)
+        break;
+      case 'createDados':
+        createDados(interaction)
+        break;
+      case 'buyBingo':
+        buyBingo(interaction);
+        break;
+      case 'deleteBingo':
+        deleteBingo(interaction);
+        break;
       default:
     }
   }
@@ -54,6 +83,9 @@ client.on('interactionCreate', (interaction) => {
 
       case 'ticketModal':
         submitTicket(interaction);
+        break;
+      case 'modalDados':
+        submitDados(interaction,client);
         break;
         
       default:

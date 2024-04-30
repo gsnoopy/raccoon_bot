@@ -48,7 +48,7 @@ async function submitTicket(interaction,client) {
           
       const embed = new Discord.EmbedBuilder()
         .setTitle(`Olá ${interaction.user.username}`)
-        .setColor(0xDC6E00)
+        .setColor(0x8000FF)
         .setDescription(`Aguarde algum atendente para solucionar sua dúvida ou problema: ${stringMarkdow}${question}${stringMarkdow}`)
         .setTimestamp()
 
