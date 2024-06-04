@@ -33,6 +33,15 @@ async function deleteBingo(interaction) {
             }
         }
 
+        // Remover o botão da interação
+        const row = interaction.message.components[0]; // Primeira linha de botões
+        const buttonIndex = row.components.findIndex(component => component.customId === 'deleteBingo');
+        if (buttonIndex !== -1) {
+            row.components.splice(buttonIndex, 1); // Remove o botão da linha de botões
+            // Atualiza a mensagem para remover o botão
+            await interaction.message.edit({ components: [row] });
+        }
+
         interaction.editReply({ content: "O canal será fechado em 3 segundos!" });
 
         setTimeout(async () => {

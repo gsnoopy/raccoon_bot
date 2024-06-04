@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Hecarim Cavaleiro Sanguinário",
+  "skinId": 120001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Hecarim Ceifador",
+  "skinId": 120002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Hecarim-sem-Cabeça",
+  "skinId": 120003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Hecarim Fliperama",
+  "skinId": 120004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Hecarim Sabugueiro",
+  "skinId": 120005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Hecarim Quebra-mundos",
+  "skinId": 120006,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Hecarim Lanceiro Zero",
+  "skinId": 120007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Hecarim Velho Oeste",
+  "skinId": 120008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Hecarim Cavalaria Cósmica",
+  "skinId": 120014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Hecarim Arcana",
+  "skinId": 120022,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Hecarim Bênção do Inverno",
+  "skinId": 120031,
+  "championId": null
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Conde Vladimir",
+  "skinId": 8001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Marquês Vladimir",
+  "skinId": 8002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Vladimir Nosferatu",
+  "skinId": 8003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Vladimir Vândalo",
+  "skinId": 8004,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Vladimir Lorde do Sangue",
+  "skinId": 8005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vladimir Ladrão de Almas",
+  "skinId": 8006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Vladimir Colegial",
+  "skinId": 8007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vladimir Águas Sombrias",
+  "skinId": 8008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vladimir Emissário da Escuridão",
+  "skinId": 8014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vladimir Devorador Cósmico",
+  "skinId": 8021,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vladimir Kawaii Café",
+  "skinId": 8030,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vladimir Pacto Quebrado",
+  "skinId": 8039,
+  "championId": null
+ }
+]

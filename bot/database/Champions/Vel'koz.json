@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "EPIC",
+  "skinName": "Vel'Koz Máquina de Combate",
+  "skinId": 161001,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vel'Koz Arco Celeste",
+  "skinId": 161002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Certamente não é o Vel'Koz",
+  "skinId": 161003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vel'Koz Infernal",
+  "skinId": 161004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Vel'Koz Gelo Sombrio",
+  "skinId": 161011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Mel'Koz",
+  "skinId": 161020,
+  "championId": null
+ }
+]

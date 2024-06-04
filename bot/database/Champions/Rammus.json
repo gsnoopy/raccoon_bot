@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus Rei",
+  "skinId": 33001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus Cromo",
+  "skinId": 33002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus de Lava",
+  "skinId": 33003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus de Freljord",
+  "skinId": 33004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus Ninja",
+  "skinId": 33005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus Blindado",
+  "skinId": 33006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus Guardião das Areias",
+  "skinId": 33007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rammus Zagueiro",
+  "skinId": 33008,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Rammus Hextec",
+  "skinId": 33016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rammus Astronauta",
+  "skinId": 33017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rammus Defensor Jaquinha",
+  "skinId": 33026,
+  "championId": null
+ }
+]

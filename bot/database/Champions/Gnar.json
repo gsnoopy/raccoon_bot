@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Gnarossauro",
+  "skinId": 150001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Gnar Cavalheiro",
+  "skinId": 150002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Gnar Dia Nevado",
+  "skinId": 150003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Gnar El León",
+  "skinId": 150004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Gnar Supergaláctico",
+  "skinId": 150013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "SSG Gnar",
+  "skinId": 150014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Gnar Astronauta",
+  "skinId": 150015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Gnar Sabugueiro",
+  "skinId": 150022,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Gnar La Ilusión",
+  "skinId": 150031,
+  "championId": null
+ }
+]

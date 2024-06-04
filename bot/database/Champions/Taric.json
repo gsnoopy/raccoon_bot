@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Taric Esmeralda",
+  "skinId": 44001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Taric de Armadura da Quinta Era",
+  "skinId": 44002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Taric Cavaleiro de Hematita",
+  "skinId": 44003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Taric Curtindo o Verão",
+  "skinId": 44004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Taric Escudo Cintilante",
+  "skinId": 44009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Taric Embalos no Espaço",
+  "skinId": 44018,
+  "championId": null
+ }
+]

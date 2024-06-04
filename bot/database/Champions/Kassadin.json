@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kassadin do Festival",
+  "skinId": 38001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kassadin das Profundezas",
+  "skinId": 38002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kassadin Pré-Vazio",
+  "skinId": 38003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kassadin Emissário das Trevas",
+  "skinId": 38004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kassadin Rapinante Cósmico",
+  "skinId": 38005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Conde Kassadin",
+  "skinId": 38006,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Kassadin Hextec",
+  "skinId": 38014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kassadin Lâmina do Trovão",
+  "skinId": 38015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kassadin Dracomante",
+  "skinId": 38024,
+  "championId": null
+ }
+]

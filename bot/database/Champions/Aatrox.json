@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Aatrox Justiceiro",
+  "skinId": 266001,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Mech Aatrox",
+  "skinId": 266002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Aatrox Caçador dos Mares",
+  "skinId": 266003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Aatrox Lua Sangrenta",
+  "skinId": 266007,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Aatrox Lua Sangrenta de Prestígio",
+  "skinId": 266008,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Aatrox Vitorioso",
+  "skinId": 266009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Aatrox Odisseia",
+  "skinId": 266011,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Aatrox Lua Sangrenta de Prestígio (2022)",
+  "skinId": 266020,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Aatrox Eclipse Lunar",
+  "skinId": 266021,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Aatrox DRX",
+  "skinId": 266030,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Aatrox DRX de Prestígio",
+  "skinId": 266031,
+  "championId": null
+ }
+]

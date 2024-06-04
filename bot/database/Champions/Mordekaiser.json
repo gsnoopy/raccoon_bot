@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Mordekaiser Dracônico",
+  "skinId": 82001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Mordekaiser Infernal",
+  "skinId": 82002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Mordekaiser Pentakill",
+  "skinId": 82003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lorde Mordekaiser",
+  "skinId": 82004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Mordekaiser Rei de Paus",
+  "skinId": 82005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Mordekaiser Estrela Negra",
+  "skinId": 82006,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "PROJETO: Mordekaiser",
+  "skinId": 82013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Mordekaiser Pentakill III: Lost Chapter",
+  "skinId": 82023,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Mordekaiser Velho Oeste",
+  "skinId": 82032,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Mordekaiser Cavaleiro Zumbi das Cinzas",
+  "skinId": 82042,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Mordekaiser Deus Antigo",
+  "skinId": 82044,
+  "championId": null
+ }
+]

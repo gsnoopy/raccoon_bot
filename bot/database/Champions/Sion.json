@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sion Hextec",
+  "skinId": 14001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sion Bárbaro",
+  "skinId": 14002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sion Lenhador",
+  "skinId": 14003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sion Anunciador da Guerra",
+  "skinId": 14004,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Mech Zero Sion",
+  "skinId": 14005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sion Quebra-mundos",
+  "skinId": 14014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sion Gelo Sombrio",
+  "skinId": 14022,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sion Velho Oeste",
+  "skinId": 14030,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sion Paladino Cósmico",
+  "skinId": 14040,
+  "championId": null
+ }
+]

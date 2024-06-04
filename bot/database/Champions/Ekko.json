@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Ekko Tempestade de Areia",
+  "skinId": 245001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Ekko Colegial",
+  "skinId": 245002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "PROJETO: Ekko",
+  "skinId": 245003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "SKT T1 Ekko",
+  "skinId": 245011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Ekko Gostosuras ou Travessuras",
+  "skinId": 245012,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Ekko True Damage",
+  "skinId": 245019,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Pulsefire Ekko",
+  "skinId": 245028,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Ekko Fogolume",
+  "skinId": 245036,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Ekko Guardião Estelar",
+  "skinId": 245045,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Ekko Guardião Estelar de Prestígio",
+  "skinId": 245046,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Ekko True Damage Revelação",
+  "skinId": 245056,
+  "championId": null
+ }
+]

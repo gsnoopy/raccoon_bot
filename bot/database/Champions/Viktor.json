@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Viktor Robótico",
+  "skinId": 112001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Viktor Protótipo",
+  "skinId": 112002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Viktor Criador",
+  "skinId": 112003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Viktor Jurado de Morte",
+  "skinId": 112004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Viktor PsyOps",
+  "skinId": 112005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Viktor Velho Oeste",
+  "skinId": 112014,
+  "championId": null
+ }
+]

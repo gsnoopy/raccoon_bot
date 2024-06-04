@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lorde Darius",
+  "skinId": 122001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Darius Bioforja",
+  "skinId": 122002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Darius Rei dos Bretões",
+  "skinId": 122003,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Darius Mestre da Enterrada",
+  "skinId": 122004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Darius Colegial",
+  "skinId": 122008,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Darius Nova Temível",
+  "skinId": 122014,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Deus-Rei Darius",
+  "skinId": 122015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Darius Velho Oeste",
+  "skinId": 122016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Darius Fera Lunar",
+  "skinId": 122024,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Darius Pesadelo na Cidade do Crime",
+  "skinId": 122033,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Darius Florescer Espiritual",
+  "skinId": 122043,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Darius de Porcelana",
+  "skinId": 122054,
+  "championId": null
+ }
+]

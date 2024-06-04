@@ -1,0 +1,86 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Teemo Duende Feliz",
+  "skinId": 17001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Teemo Batedor",
+  "skinId": 17002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Teemo Texugo",
+  "skinId": 17003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Teemo Astronauta",
+  "skinId": 17004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Teemo Pelo Branquinho",
+  "skinId": 17005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Super Teemo",
+  "skinId": 17006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Teemo Panda",
+  "skinId": 17007,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Teemo Esquadrão Ômega",
+  "skinId": 17008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Capeteemo",
+  "skinId": 17014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Abelheemo",
+  "skinId": 17018,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Teemo Florescer Espiritual",
+  "skinId": 17025,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Teemo Florescer Espiritual de Prestígio",
+  "skinId": 17027,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Teemo Fogos de Artifício",
+  "skinId": 17037,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Teemo Embalos no Espaço",
+  "skinId": 17047,
+  "championId": null
+ }
+]

@@ -10,6 +10,12 @@ async function deleteTicket(interaction) {
 
             const channel = interaction.channel;
 
+        const messages = await channel.messages.fetch({ limit: 1 });
+        const firstMessage = messages.first();
+        if (firstMessage) {
+            await firstMessage.delete();
+        }
+
             interaction.editReply({content: "O canal será fechado em 3 segundos!"});
             await transcriptMessages(interaction,channel,'1234748679261519893');
                 

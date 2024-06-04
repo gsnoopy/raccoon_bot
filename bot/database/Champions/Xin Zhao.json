@@ -1,0 +1,62 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Patrulheiro Xin Zhao",
+  "skinId": 5001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Xin Zhao Imperial",
+  "skinId": 5002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Xin Zhao Gladiador",
+  "skinId": 5003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Xin Zhao Hussardo Alado",
+  "skinId": 5004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xin Zhao Reinos Combatentes",
+  "skinId": 5005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Xin Zhao Agente Secreto",
+  "skinId": 5006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xin Zhao Caçador de Dragões",
+  "skinId": 5013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xin Zhao Defensor Cósmico",
+  "skinId": 5020,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xin Zhao Saqueador",
+  "skinId": 5027,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xin Zhao Fogos de Artifício",
+  "skinId": 5036,
+  "championId": null
+ }
+]

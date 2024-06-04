@@ -1,0 +1,92 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Morgana Exilada",
+  "skinId": 25001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Morgana Pesadelo Culinário",
+  "skinId": 25002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Morgana Mestra das Lâminas",
+  "skinId": 25003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Morgana Espinhos Negros",
+  "skinId": 25004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Morgana Noiva Fantasma",
+  "skinId": 25005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Morgana Vitoriosa",
+  "skinId": 25006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Morgana Espectro Lunar",
+  "skinId": 25010,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Morgana Feiticeira",
+  "skinId": 25011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Morgana Imperatriz Majestosa",
+  "skinId": 25017,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Morgana Congregação das Bruxas",
+  "skinId": 25026,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Morgana Emissária da Luz",
+  "skinId": 25039,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Morgana Feiticeira de Prestígio",
+  "skinId": 25041,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Morgana Nêmesis Estelar",
+  "skinId": 25050,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Morgana Lua Nevada",
+  "skinId": 25060,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Morgana de Porcelana",
+  "skinId": 25070,
+  "championId": null
+ }
+]

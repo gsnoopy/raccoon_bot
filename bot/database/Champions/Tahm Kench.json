@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Tahm Kench Mestre-Cuca",
+  "skinId": 223001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Urf Kench",
+  "skinId": 223002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Tahm Kench Imperador das Moedas",
+  "skinId": 223003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Tahm Kench Arcana",
+  "skinId": 223011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Tahm Kench Velho Oeste",
+  "skinId": 223020,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Tahm Kench Pergaminhos Shan Hai",
+  "skinId": 223030,
+  "championId": null
+ }
+]

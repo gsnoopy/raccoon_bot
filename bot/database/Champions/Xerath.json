@@ -1,0 +1,44 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Xerath Rúnico",
+  "skinId": 101001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Xerath Máquina de Combate",
+  "skinId": 101002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xerath Terra Abrasada",
+  "skinId": 101003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xerath Guardião das Areias",
+  "skinId": 101004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xerath Estrela Negra",
+  "skinId": 101005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xerath Arcana",
+  "skinId": 101012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Xerath Astronauta",
+  "skinId": 101021,
+  "championId": null
+ }
+]

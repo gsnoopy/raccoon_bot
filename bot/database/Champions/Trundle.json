@@ -1,0 +1,44 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Trundle Rebatedor",
+  "skinId": 48001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Trundle Ferro-Velho",
+  "skinId": 48002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Trundle Tradicional",
+  "skinId": 48003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Guarda Trundle",
+  "skinId": 48004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Trundle Quebra-mundos",
+  "skinId": 48005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Trundle Caçador de Dragões",
+  "skinId": 48006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Trundle Noite Apavorante",
+  "skinId": 48012,
+  "championId": null
+ }
+]

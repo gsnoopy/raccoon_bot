@@ -1,0 +1,62 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Olaf Esquecido",
+  "skinId": 2001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Olaf Glacial",
+  "skinId": 2002,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Brolaf",
+  "skinId": 2003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Olaf Pentakill",
+  "skinId": 2004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Olaf Saqueador",
+  "skinId": 2005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Olaf Açougueiro",
+  "skinId": 2006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "SKT T1 Olaf",
+  "skinId": 2015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Olaf Caçador de Dragões",
+  "skinId": 2016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Olaf Sentinela",
+  "skinId": 2025,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Olaf Pentakill III: Lost Chapter",
+  "skinId": 2035,
+  "championId": null
+ }
+]

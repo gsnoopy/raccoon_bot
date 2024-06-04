@@ -1,0 +1,50 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Wukong Incandescente",
+  "skinId": 62001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "General Wukong",
+  "skinId": 62002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Wukong Dragão de Jade",
+  "skinId": 62003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Wukong do Submundo",
+  "skinId": 62004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Wukong Radiante",
+  "skinId": 62005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Wukong Estrato Lanceiro",
+  "skinId": 62006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Wukong Academia de Batalha",
+  "skinId": 62007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Wukong Sabugueiro",
+  "skinId": 62016,
+  "championId": null
+ }
+]

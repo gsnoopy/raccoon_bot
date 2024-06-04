@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nunu e Willump Pé-Grande",
+  "skinId": 20001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nunu e Willump Natalinos",
+  "skinId": 20002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nunu e Willump Bicho-Papão",
+  "skinId": 20003,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Nunu e Willump Robótico",
+  "skinId": 20004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nunu e Willump Demolidor",
+  "skinId": 20005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "TPA Nunu e Willump",
+  "skinId": 20006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nunu e Willump Zumbi",
+  "skinId": 20007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nunu e Willump de Papel",
+  "skinId": 20008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nunu e Willump Embalos no Espaço",
+  "skinId": 20016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nunu e Mellump",
+  "skinId": 20026,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nunu e Willump Paladinos Cósmicos",
+  "skinId": 20035,
+  "championId": null
+ }
+]

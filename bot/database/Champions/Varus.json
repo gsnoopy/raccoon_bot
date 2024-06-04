@@ -1,0 +1,80 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Varus do Cristal Arruinado",
+  "skinId": 110001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Varus Arco Celeste",
+  "skinId": 110002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Varus Operação no Ártico",
+  "skinId": 110003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Varus Cupido Mortal",
+  "skinId": 110004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Varus Dardos Velozes",
+  "skinId": 110005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Varus Estrela Negra",
+  "skinId": 110006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Varus Conquistador",
+  "skinId": 110007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Varus Infernal",
+  "skinId": 110009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "PROJETO: Varus",
+  "skinId": 110016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Varus Caçador Cósmico",
+  "skinId": 110017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Varus Velho Oeste",
+  "skinId": 110034,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Varus Lua Nevada",
+  "skinId": 110044,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Varus Empíreo",
+  "skinId": 110053,
+  "championId": null
+ }
+]

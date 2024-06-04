@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Brand Pós-Apocalipse",
+  "skinId": 63001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Brand Vândalo",
+  "skinId": 63002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Brand Criogênico",
+  "skinId": 63003,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Brand Zumbi",
+  "skinId": 63004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Brand Fogo Espiritual",
+  "skinId": 63005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Brand Chefão",
+  "skinId": 63006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Brand Arco Celeste",
+  "skinId": 63007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Brand Dragão Eterno",
+  "skinId": 63008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Brand Galante",
+  "skinId": 63021,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Brand Galante de Prestígio",
+  "skinId": 63022,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Brand Demônios Urbanos",
+  "skinId": 63033,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Brand Empíreo",
+  "skinId": 63042,
+  "championId": null
+ }
+]

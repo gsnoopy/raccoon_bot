@@ -1,0 +1,86 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Negro",
+  "skinId": 12001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Dourado",
+  "skinId": 12002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Toureiro",
+  "skinId": 12003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Velho Oeste",
+  "skinId": 12004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Indomável",
+  "skinId": 12005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Infernal",
+  "skinId": 12006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Zagueiro",
+  "skinId": 12007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Saqueador",
+  "skinId": 12008,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "SKT T1 Alistar",
+  "skinId": 12009,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Alistar Vaquinha",
+  "skinId": 12010,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Alistar Hextec",
+  "skinId": 12019,
+  "championId": null
+ },
+ {
+  "rarity": "RARE",
+  "skinName": "Alistar Conquistador",
+  "skinId": 12020,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Alistar Gelo Sombrio",
+  "skinId": 12022,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Alistar Fera Lunar",
+  "skinId": 12029,
+  "championId": null
+ }
+]

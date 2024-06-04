@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Talon Renegado",
+  "skinId": 91001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Talon Elite Carmesim",
+  "skinId": 91002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Talon Lâminas Dracônicas",
+  "skinId": 91003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Talon SSW",
+  "skinId": 91004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Talon Lua Sangrenta",
+  "skinId": 91005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Talon Espada Resiliente",
+  "skinId": 91012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Talon Bosque Sombrio",
+  "skinId": 91020,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Talon Rosa Definhada",
+  "skinId": 91029,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Talon Velho Oeste",
+  "skinId": 91038,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Talon Velho Oeste de Prestígio",
+  "skinId": 91039,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Talon Emboscada Primordial",
+  "skinId": 91049,
+  "championId": null
+ }
+]

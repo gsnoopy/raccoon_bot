@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "LeBlanc Cruel",
+  "skinId": 7001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "LeBlanc Prestigiosa",
+  "skinId": 7002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "LeBlanc Natalina",
+  "skinId": 7003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "LeBlanc Corvinata",
+  "skinId": 7004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "LeBlanc Sabugueiro",
+  "skinId": 7005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "LeBlanc Cibernética",
+  "skinId": 7012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "IG LeBlanc",
+  "skinId": 7019,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "LeBlanc Congregação das Bruxas",
+  "skinId": 7020,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "LeBlanc Mundial 2020",
+  "skinId": 7029,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "LeBlanc Congregação das Bruxas de Prestígio",
+  "skinId": 7033,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "LeBlanc Galante",
+  "skinId": 7035,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "LeBlanc Feiticeira",
+  "skinId": 7045,
+  "championId": null
+ }
+]

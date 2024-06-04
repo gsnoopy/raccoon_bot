@@ -1,0 +1,50 @@
+[
+ {
+  "rarity": "EPIC",
+  "skinName": "Jayce Blindado",
+  "skinId": 126001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Jayce Galante",
+  "skinId": 126002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Jayce Esquecido",
+  "skinId": 126003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Jayce, o Martelo Iluminado",
+  "skinId": 126004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Jayce Academia de Batalha",
+  "skinId": 126005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Jayce da Resistência",
+  "skinId": 126015,
+  "championId": null
+ },
+ {
+  "rarity": "RARE",
+  "skinName": "Jayce Arcane",
+  "skinId": 126024,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Jayce Zenith Games",
+  "skinId": 126025,
+  "championId": null
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kennen Mortífero",
+  "skinId": 85001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kennen Mestre do Pântano",
+  "skinId": 85002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kennen Carateca",
+  "skinId": 85003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kennen Clínico Geral",
+  "skinId": 85004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kennen Operação no Ártico",
+  "skinId": 85005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kennen Lua Sangrenta",
+  "skinId": 85006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Super Kennen",
+  "skinId": 85007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kennen Infernal",
+  "skinId": 85008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kennen DWG",
+  "skinId": 85023,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kennen Astronauta",
+  "skinId": 85025,
+  "championId": null
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Azir Galáctico",
+  "skinId": 268001,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Azir Senhor dos Túmulos",
+  "skinId": 268002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "SKT T1 Azir",
+  "skinId": 268003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Azir Reinos Combatentes",
+  "skinId": 268004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Azir Sabugueiro",
+  "skinId": 268005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Azir Mundial 2022",
+  "skinId": 268014,
+  "championId": null
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Malzahar Vizir",
+  "skinId": 90001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Malzahar Príncipe das Sombras",
+  "skinId": 90002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Malzahar Gênio da Lâmpada",
+  "skinId": 90003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Malzahar Suserano",
+  "skinId": 90004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Malzahar Dia Nevado",
+  "skinId": 90005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Malzahar Chefão",
+  "skinId": 90006,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Malzahar Hextec",
+  "skinId": 90007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Malzahar Quebra-mundos",
+  "skinId": 90009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Melzahar",
+  "skinId": 90018,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Malzahar Galante",
+  "skinId": 90028,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Malzahar Três Honras",
+  "skinId": 90038,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Malzahar Empíreo",
+  "skinId": 90039,
+  "championId": null
+ }
+]

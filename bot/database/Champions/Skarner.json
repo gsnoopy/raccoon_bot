@@ -1,0 +1,32 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Skarner Escorpião do Deserto",
+  "skinId": 72001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Skarner Runas da Terra",
+  "skinId": 72002,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Skarner Máquina de Combate Alfa",
+  "skinId": 72003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Skarner Guardião das Areias",
+  "skinId": 72004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Skarner Ferrão Cósmico",
+  "skinId": 72005,
+  "championId": null
+ }
+]

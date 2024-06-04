@@ -1,0 +1,98 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Mercenária",
+  "skinId": 55001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Árbitra",
+  "skinId": 55002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Águas de Sentina",
+  "skinId": 55003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Gatinha",
+  "skinId": 55004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Comandante",
+  "skinId": 55005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Tempestade de Areia",
+  "skinId": 55006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Noite Infeliz",
+  "skinId": 55007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Katarina Reinos Combatentes",
+  "skinId": 55008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "PROJETO: Katarina",
+  "skinId": 55009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Katarina Jurada de Morte",
+  "skinId": 55010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Katarina Academia de Batalha",
+  "skinId": 55012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Katarina Lua Sangrenta",
+  "skinId": 55021,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Katarina Rainha de Batalha",
+  "skinId": 55029,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Katarina Velho Oeste",
+  "skinId": 55037,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Katarina Corte das Fadas",
+  "skinId": 55047,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Katarina Corte das Fadas de Prestígio",
+  "skinId": 55048,
+  "championId": null
+ }
+]

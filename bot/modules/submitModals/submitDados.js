@@ -21,12 +21,12 @@ async function submitDados(interaction,client) {
         .setTitle(`Obrigado ${interaction.user.username}`)
         .setThumbnail(userAvatar)
         .setColor(0xD904FF)
-        .setDescription(`Seus dados foram enviados e iremos começar o UP do seu passe, por favor não logue na conta até que avisemos que o serviço foi realizado de acordo com os termos [EDITAR]`)
+        .setDescription(`Seus dados foram enviados e iremos começar o UP do seu passe, por favor não logue na conta até que avisemos que o serviço foi realizado!`)
         .setTimestamp()
 
         const button = new Discord.ActionRowBuilder().addComponents(
             new Discord.ButtonBuilder()
-              .setCustomId("doneService")
+              .setCustomId("serviceDone")
               .setLabel("Serviço Finalizado")
               .setStyle(Discord.ButtonStyle.Primary)
         );

@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Galio Enfeitiçado",
+  "skinId": 3001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Galio Hextec",
+  "skinId": 3002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Patrulheiro Galio",
+  "skinId": 3003,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Galio Guardião das Trevas",
+  "skinId": 3004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Galio Galante",
+  "skinId": 3005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Frangalio",
+  "skinId": 3006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Galio Infernal",
+  "skinId": 3013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Galio Guardião Dracônico",
+  "skinId": 3019,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Galio Criador Mítico",
+  "skinId": 3028,
+  "championId": null
+ }
+]

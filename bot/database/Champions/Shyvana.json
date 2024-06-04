@@ -1,0 +1,50 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shyvana de Armadura de Ferro",
+  "skinId": 102001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shyvana Garras-de-Crânio",
+  "skinId": 102002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shyvana Chamas Negras",
+  "skinId": 102003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shyvana Dragão de Gelo",
+  "skinId": 102004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shyvana Mundial 2014",
+  "skinId": 102005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shyvana Supergaláctica",
+  "skinId": 102006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shyvana Destruída",
+  "skinId": 102008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shyvana Jornada Imortal",
+  "skinId": 102017,
+  "championId": null
+ }
+]

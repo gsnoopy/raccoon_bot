@@ -1,0 +1,104 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sivir, a Princesa Guerreira",
+  "skinId": 15001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sivir Maravilha",
+  "skinId": 15002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sivir Caçadora",
+  "skinId": 15003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sivir Gatuna",
+  "skinId": 15004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "PAX Sivir",
+  "skinId": 15005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sivir Tempestade de Neve",
+  "skinId": 15006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sivir Vigia",
+  "skinId": 15007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sivir Vitoriosa",
+  "skinId": 15008,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Neo PAX Sivir",
+  "skinId": 15009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sivir Entregadora de Pizza",
+  "skinId": 15010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sivir Lua Sangrenta",
+  "skinId": 15016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sivir Odisseia",
+  "skinId": 15025,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sivir Kawaii Café",
+  "skinId": 15034,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Sivir Eclipse Solar",
+  "skinId": 15043,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sivir Criadora Mítica",
+  "skinId": 15050,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Sivir Criadora Mítica de Prestígio",
+  "skinId": 15051,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sivir Emboscada Primordial",
+  "skinId": 15061,
+  "championId": null
+ }
+]

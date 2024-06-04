@@ -1,0 +1,86 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Veigar Mago Branco",
+  "skinId": 45001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Veigar Curling",
+  "skinId": 45002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Veigar Cinzento",
+  "skinId": 45003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Veigar Leprechaun",
+  "skinId": 45004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Barão Von Veigar",
+  "skinId": 45005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Veigar, o Supervilão",
+  "skinId": 45006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Veigar Noel Macabro",
+  "skinId": 45007,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Veigar Chefão Final",
+  "skinId": 45008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Veigar Esquadrão Ômega",
+  "skinId": 45009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Veigar Sabugueiro",
+  "skinId": 45013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Veigar Cosplay de Ranzinzim",
+  "skinId": 45023,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Veigar Astronauta",
+  "skinId": 45032,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Veigar Domador de Monstros",
+  "skinId": 45041,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rei Abeigar",
+  "skinId": 45051,
+  "championId": null
+ }
+]

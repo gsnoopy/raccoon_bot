@@ -1,0 +1,98 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Master Yi Assassino",
+  "skinId": 11001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Master Yi, o Escolhido",
+  "skinId": 11002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Master Yi de Ionia",
+  "skinId": 11003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Samurai Yi",
+  "skinId": 11004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Master Yi Caçador de Cabeças",
+  "skinId": 11005,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "PROJETO: Yi",
+  "skinId": 11009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Master Yi Espada Cósmica",
+  "skinId": 11010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Yi Espada Eterna",
+  "skinId": 11011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Yi Boneco de Neve",
+  "skinId": 11017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Master Yi Lua Sangrenta",
+  "skinId": 11024,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Master Yi PsyOps",
+  "skinId": 11033,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Master Yi Galante",
+  "skinId": 11042,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Master Yi Florescer Espiritual",
+  "skinId": 11052,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Master Yi Florescer Espiritual de Prestígio",
+  "skinId": 11053,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Master Yi Tinta Sombria",
+  "skinId": 11089,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Master Yi Escamas Celestiais",
+  "skinId": 11096,
+  "championId": null
+ }
+]

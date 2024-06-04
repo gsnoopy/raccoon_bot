@@ -1,0 +1,68 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fiddlesticks Espectral",
+  "skinId": 9001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fiddlesticks Union Jack",
+  "skinId": 9002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fiddlesticks Velho Oeste",
+  "skinId": 9003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fiddlesticks Cabeça de Abóbora",
+  "skinId": 9004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fiddlesticks Perna-de-Pau",
+  "skinId": 9005,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Fiddlesticks Festa Surpresa",
+  "skinId": 9006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fiddlesticks Doces Trevosos",
+  "skinId": 9007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fiddlesticks Ascendente",
+  "skinId": 9008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fiddlesticks Pretoriano",
+  "skinId": 9009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fiddlesticks Nêmesis Estelar",
+  "skinId": 9027,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fiddlesticks Lua Sangrenta",
+  "skinId": 9037,
+  "championId": null
+ }
+]

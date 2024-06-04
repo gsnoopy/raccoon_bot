@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Quinn Fênix",
+  "skinId": 133001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Quinn Exploradora Bretã",
+  "skinId": 133002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Quinn Corsária",
+  "skinId": 133003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Quinn Cupido Mortal",
+  "skinId": 133004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Quinn Vigia",
+  "skinId": 133005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Quinn Guardiã Estelar",
+  "skinId": 133014,
+  "championId": null
+ }
+]

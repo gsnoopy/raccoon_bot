@@ -1,0 +1,26 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sir Kled",
+  "skinId": 240001,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Conde Klédula",
+  "skinId": 240002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kled Saqueador",
+  "skinId": 240009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kled Cabeça de Ração",
+  "skinId": 240018,
+  "championId": null
+ }
+]

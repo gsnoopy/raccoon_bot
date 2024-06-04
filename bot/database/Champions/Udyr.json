@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Udyr Faixa Preta",
+  "skinId": 77001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Udyr Xamã",
+  "skinId": 77002,
+  "championId": null
+ },
+ {
+  "rarity": "ULTIMATE",
+  "skinName": "Udyr Guardião Espiritual",
+  "skinId": 77003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Certamente não é o Udyr",
+  "skinId": 77004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Udyr Oráculo Dracônico",
+  "skinId": 77005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Udyr Tinta Sombria",
+  "skinId": 77006,
+  "championId": null
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Janna Tempestuosa",
+  "skinId": 40001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Janna Hextec",
+  "skinId": 40002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Janna Rainha Gélida",
+  "skinId": 40003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Janna Vitoriosa",
+  "skinId": 40004,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Janna Previsão do Tempo",
+  "skinId": 40005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fnatic Janna",
+  "skinId": 40006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Guardiã Estelar",
+  "skinId": 40007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Espada Sagrada",
+  "skinId": 40008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Feiticeira",
+  "skinId": 40013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Guardiã das Areias",
+  "skinId": 40020,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Rainha de Batalha",
+  "skinId": 40027,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Rosa de Cristal",
+  "skinId": 40036,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Aura Cibernética",
+  "skinId": 40045,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Janna Aura Cibernética de Prestígio",
+  "skinId": 40046,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Janna Escamas Celestiais",
+  "skinId": 40056,
+  "championId": null
+ }
+]

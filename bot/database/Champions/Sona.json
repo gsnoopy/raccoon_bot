@@ -1,0 +1,80 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sona Musa",
+  "skinId": 37001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sona Pentakill",
+  "skinId": 37002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sona Noite Feliz",
+  "skinId": 37003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sona Guqin",
+  "skinId": 37004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sona Fliperama",
+  "skinId": 37005,
+  "championId": null
+ },
+ {
+  "rarity": "ULTIMATE",
+  "skinName": "DJ Sona",
+  "skinId": 37006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Sona Queridinha",
+  "skinId": 37007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sona Odisseia",
+  "skinId": 37009,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Sona PsyOps",
+  "skinId": 37017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sona Pentakill III: Lost Chapter",
+  "skinId": 37026,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sona Guardiã Estelar",
+  "skinId": 37035,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Sona Jornada Imortal",
+  "skinId": 37045,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Sona Jornada Imortal de Prestígio",
+  "skinId": 37046,
+  "championId": null
+ }
+]

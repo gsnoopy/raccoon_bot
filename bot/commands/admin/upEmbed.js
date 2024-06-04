@@ -23,7 +23,7 @@ module.exports = {
           new Discord.ButtonBuilder()
             .setCustomId("buyUp")
             .setLabel("Comprar serviço")
-            .setEmoji("<:cart:1234743189290618943>")
+            .setEmoji("<:cartWhite:1234743199256281128>")
             .setStyle(Discord.ButtonStyle.Primary)
       );
 

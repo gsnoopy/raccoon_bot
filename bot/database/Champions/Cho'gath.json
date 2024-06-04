@@ -1,0 +1,62 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cho'Gath Terror Noturno",
+  "skinId": 31001,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Cho'Gath Cavalheiro",
+  "skinId": 31002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cho'Gath do Lago Ness",
+  "skinId": 31003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cho'Gath Jurássico",
+  "skinId": 31004,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Cho'Gath Máquina de Combate Primum",
+  "skinId": 31005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cho'Gath Pré-histórico",
+  "skinId": 31006,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Cho'Gath Estrela Negra",
+  "skinId": 31007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Cho'Gath Pergaminhos Shan Hai",
+  "skinId": 31014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Cho'Gath Pacto Quebrado",
+  "skinId": 31023,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Cho'Gath Terror de Brinquedo",
+  "skinId": 31032,
+  "championId": null
+ }
+]

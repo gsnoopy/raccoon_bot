@@ -1,0 +1,44 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Yorick Necróforo",
+  "skinId": 83001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Yorick Pentakill",
+  "skinId": 83002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Yorick Arco Celeste",
+  "skinId": 83003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Miaurick",
+  "skinId": 83004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Yorick da Resistência",
+  "skinId": 83012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Yorick Pentakill III: Lost Chapter",
+  "skinId": 83021,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Yorick Florescer Espiritual",
+  "skinId": 83030,
+  "championId": null
+ }
+]

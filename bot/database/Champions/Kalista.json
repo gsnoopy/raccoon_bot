@@ -1,0 +1,32 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kalista Lua Sangrenta",
+  "skinId": 429001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kalista Mundial 2015",
+  "skinId": 429002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "SKT T1 Kalista",
+  "skinId": 429003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kalista Saqueadora",
+  "skinId": 429005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kalista Corte das Fadas",
+  "skinId": 429014,
+  "championId": null
+ }
+]

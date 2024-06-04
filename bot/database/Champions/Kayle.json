@@ -1,0 +1,98 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kayle Prateada",
+  "skinId": 10001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kayle Viridiana",
+  "skinId": 10002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kayle Transcendida",
+  "skinId": 10003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kayle Nascida para a Batalha",
+  "skinId": 10004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kayle Juíza",
+  "skinId": 10005,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Kayle Asas Etéreas",
+  "skinId": 10006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Riot Kayle",
+  "skinId": 10007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Kayle Inquisidora de Ferro",
+  "skinId": 10008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Pentakayle",
+  "skinId": 10009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kayle PsyOps",
+  "skinId": 10015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kayle Caçadora de Dragões",
+  "skinId": 10024,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kayle Pentakill III: Lost Chapter",
+  "skinId": 10033,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kayle Devoradora do Sol",
+  "skinId": 10042,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kayle Jornada Imortal",
+  "skinId": 10057,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Kayle Empírea",
+  "skinId": 10066,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Kayle Empírea de Prestígio",
+  "skinId": 10067,
+  "championId": null
+ }
+]

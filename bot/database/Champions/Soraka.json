@@ -1,0 +1,98 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Soraka Dríade",
+  "skinId": 16001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Soraka Divina",
+  "skinId": 16002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Soraka Celestina",
+  "skinId": 16003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Ceifadora",
+  "skinId": 16004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Soraka Ordem da Banana",
+  "skinId": 16005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Cibernética",
+  "skinId": 16006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Guardiã Estelar",
+  "skinId": 16007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Pijaminha Estelar",
+  "skinId": 16008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Inverno Mágico",
+  "skinId": 16009,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Soraka Emissária da Luz",
+  "skinId": 16015,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Soraka Emissária da Escuridão",
+  "skinId": 16016,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Soraka Guardiã Estelar de Prestígio",
+  "skinId": 16017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Kawaii Café",
+  "skinId": 16018,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Florescer Espiritual",
+  "skinId": 16027,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Soraka Jornada Imortal",
+  "skinId": 16037,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Soraka Corte das Fadas",
+  "skinId": 16044,
+  "championId": null
+ }
+]

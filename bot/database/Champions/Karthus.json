@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Karthus Cerimônia das Trevas",
+  "skinId": 30001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Karthus da Liberdade",
+  "skinId": 30002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Karthus Lacaio da Morte",
+  "skinId": 30003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Karthus Pentakill",
+  "skinId": 30004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fnatic Karthus",
+  "skinId": 30005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Karthus Bane-luz",
+  "skinId": 30009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Karthus Infernal",
+  "skinId": 30010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Karthus Pentakill III: Lost Chapter",
+  "skinId": 30017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Karthus Sabugueiro",
+  "skinId": 30026,
+  "championId": null
+ }
+]

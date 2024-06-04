@@ -1,0 +1,50 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cassiopeia Velho Oeste",
+  "skinId": 69001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cassiopeia Sereia",
+  "skinId": 69002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cassiopeia Helênica",
+  "skinId": 69003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Cassiopeia Presas de Jade",
+  "skinId": 69004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Cassiopeia Eternum",
+  "skinId": 69008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Cassiopeia Florescer Espiritual",
+  "skinId": 69009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Cassiopeia Congregação das Bruxas",
+  "skinId": 69018,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Cassiopeia Feiticeira",
+  "skinId": 69028,
+  "championId": null
+ }
+]

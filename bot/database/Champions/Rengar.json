@@ -1,0 +1,50 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rengar Caçador de Cabeças",
+  "skinId": 107001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rengar Caçador Noturno",
+  "skinId": 107002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rengar SSW",
+  "skinId": 107003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Mech Rengar",
+  "skinId": 107008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rengato",
+  "skinId": 107015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rengar Guardião das Areias",
+  "skinId": 107023,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rengar Sentinela",
+  "skinId": 107030,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rengar Demônios Urbanos",
+  "skinId": 107040,
+  "championId": null
+ }
+]

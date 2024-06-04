@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Carangot, o Inimigo Gigante",
+  "skinId": 6001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Urgot Açougueiro",
+  "skinId": 6002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Urgot Máquina de Combate",
+  "skinId": 6003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Urgot Velho Oeste",
+  "skinId": 6009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Urgot Cosplay de Pijaminha Estelar",
+  "skinId": 6015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Urgot Noite Apavorante",
+  "skinId": 6023,
+  "championId": null
+ }
+]

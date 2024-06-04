@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Bardo Sabugueiro",
+  "skinId": 432001,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Bardo Dia Nevado",
+  "skinId": 432005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Bardo Bardo",
+  "skinId": 432006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Bardo Astronauta",
+  "skinId": 432008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Bardo Kawaii Café",
+  "skinId": 432017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Bardo Pergaminhos Shan Hai",
+  "skinId": 432026,
+  "championId": null
+ }
+]

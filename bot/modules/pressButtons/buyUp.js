@@ -4,6 +4,7 @@ const fs = require('fs');
 const { AttachmentBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 const { Discord } = require('../../imports');
 const path = require('path'); 
+const { v4: uuidv4 } = require('uuid');
 
 async function buyUp(interaction) {
 
@@ -61,7 +62,7 @@ async function buyUp(interaction) {
 
       const transactionAmount = 20.00;
       const description = `Up passe - ${interaction.user.username}`;
-      const buyerEmail = `${interaction.user.username}@gmail.com`;
+      const buyerEmail = `buyer@gmail.com`;
       const buyerCPF = '47161952441';
       const accessToken = process.env.MP_TOKEN;
       const apiUrl = 'https://api.mercadopago.com/v1/payments';
@@ -80,9 +81,12 @@ async function buyUp(interaction) {
         }
       };
 
+      const idempotencyKey = uuidv4()
+
       const headers = {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${accessToken}`
+        'Authorization': `Bearer ${accessToken}`,
+        'X-Idempotency-Key': idempotencyKey
       };
 
       const response = await axios.post(apiUrl, paymentData, { headers });

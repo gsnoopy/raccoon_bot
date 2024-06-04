@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Anivia Espírito de Equipe",
+  "skinId": 34001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Anivia de Rapina",
+  "skinId": 34002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Anivia Caçadora de Noxus",
+  "skinId": 34003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Anivia Hextec",
+  "skinId": 34004,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Anivia Gelo Sombrio",
+  "skinId": 34005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Anivia Pré-histórica",
+  "skinId": 34006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Carnanivia",
+  "skinId": 34007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Anivia de Papel",
+  "skinId": 34008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Anivia Asas Cósmicas",
+  "skinId": 34017,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Anivia Fênix Divina",
+  "skinId": 34027,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Morceganivia Feiticeira",
+  "skinId": 34037,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Anivia Vitoriosa",
+  "skinId": 34046,
+  "championId": null
+ }
+]

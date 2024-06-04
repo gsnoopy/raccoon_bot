@@ -1,0 +1,80 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shaco Chapeleiro Maluco",
+  "skinId": 35001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shaco Bobo da Corte",
+  "skinId": 35002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shaco Quebra-nozes",
+  "skinId": 35003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shaco de Brinquedo",
+  "skinId": 35004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shaco do Manicômio",
+  "skinId": 35005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shaco Goseong",
+  "skinId": 35006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Shacoringa",
+  "skinId": 35007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shaco Estrela Negra",
+  "skinId": 35008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shaco Arcanista",
+  "skinId": 35015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shaco Pesadelo na Cidade do Crime",
+  "skinId": 35023,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shaco Bênção do Inverno",
+  "skinId": 35033,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Shaco Soul Fighter",
+  "skinId": 35043,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Shaco Soul Fighter de Prestígio",
+  "skinId": 35044,
+  "championId": null
+ }
+]

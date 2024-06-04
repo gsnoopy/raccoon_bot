@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Volibear Senhor do Trovão",
+  "skinId": 106001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Volibear Nevasca do Ártico",
+  "skinId": 106002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Volibear Armadura Rúnica",
+  "skinId": 106003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Capitão Volibear",
+  "skinId": 106004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Volibear El Rayo",
+  "skinId": 106005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "O Urso dos Mil Flagelos",
+  "skinId": 106006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Volibear Dragão da Dualidade",
+  "skinId": 106007,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Volibear Dragão da Dualidade de Prestígio",
+  "skinId": 106009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Volibear Tinta Sombria",
+  "skinId": 106019,
+  "championId": null
+ }
+]

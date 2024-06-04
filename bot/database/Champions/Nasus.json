@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nasus Galáctico",
+  "skinId": 75001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nasus Faraônico",
+  "skinId": 75002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nasus Cavaleiro do Terror",
+  "skinId": 75003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Riot Nasus K-9",
+  "skinId": 75004,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Nasus Infernal",
+  "skinId": 75005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nasus Arquiduque",
+  "skinId": 75006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nasus Quebra-mundos",
+  "skinId": 75010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nasus Guardião Lunar",
+  "skinId": 75011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nasus Máquina de Combate",
+  "skinId": 75016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nasus Embalos no Espaço",
+  "skinId": 75025,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nasus Titã Blindado",
+  "skinId": 75035,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nasus Emissário da Escuridão",
+  "skinId": 75045,
+  "championId": null
+ }
+]

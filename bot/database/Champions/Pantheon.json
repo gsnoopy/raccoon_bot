@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Pantheon Mirmidão",
+  "skinId": 80001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Pantheon Implacável",
+  "skinId": 80002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Pantheon Perseu",
+  "skinId": 80003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Pantheon Blindado",
+  "skinId": 80004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Pantheon Gladiador",
+  "skinId": 80005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Pantheon Caçador de Dragões",
+  "skinId": 80006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Pantheon Caça-Zumbis",
+  "skinId": 80007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Tortheon",
+  "skinId": 80008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Pulsefire Pantheon",
+  "skinId": 80016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Pantheon Destruído",
+  "skinId": 80025,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Pantheon Ascendente de Prestígio",
+  "skinId": 80026,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Pantheon Conquistador das Cinzas",
+  "skinId": 80036,
+  "championId": null
+ }
+]

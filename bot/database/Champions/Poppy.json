@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Poppy de Noxus",
+  "skinId": 78001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Poppirulito",
+  "skinId": 78002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Poppy Ferreira",
+  "skinId": 78003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Poppy Boneca de Pano",
+  "skinId": 78004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Poppy Guerreira Real",
+  "skinId": 78005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Poppy Martelo Escarlate",
+  "skinId": 78006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Poppy Guardiã Estelar",
+  "skinId": 78007,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Poppy Cervo da Neve",
+  "skinId": 78014,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Poppy Hextec",
+  "skinId": 78015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Poppy Astronauta",
+  "skinId": 78016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Poppy Feiticeira",
+  "skinId": 78024,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Poppy Kawaii Café",
+  "skinId": 78033,
+  "championId": null
+ }
+]

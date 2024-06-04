@@ -1,0 +1,38 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rumble de Férias",
+  "skinId": 68001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Rumble Ratazana do Mar",
+  "skinId": 68002,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Rumble Supergaláctico",
+  "skinId": 68003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rumble Barão das Terras Áridas",
+  "skinId": 68004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rumble Embalos no Espaço",
+  "skinId": 68013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Rumble Kawaii Café",
+  "skinId": 68023,
+  "championId": null
+ }
+]

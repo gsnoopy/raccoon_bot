@@ -1,0 +1,86 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Warwick Cinzento",
+  "skinId": 19001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Urf, o Peixe-Boi",
+  "skinId": 19002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Warwick Lobo Mau",
+  "skinId": 19003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Warwick Caçador da Tundra",
+  "skinId": 19004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Warwick Selvagem",
+  "skinId": 19005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Warwick Presas de Fogo",
+  "skinId": 19006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Warwick Hiena",
+  "skinId": 19007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Warwick Saqueador",
+  "skinId": 19008,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Urfwick",
+  "skinId": 19009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Warwick Guardião Lunar",
+  "skinId": 19010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "PROJETO: Warwick",
+  "skinId": 19016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Warwick Deus Antigo",
+  "skinId": 19035,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Warwick Bênção do Inverno",
+  "skinId": 19045,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Warwick Bênção do Inverno de Prestígio",
+  "skinId": 19046,
+  "championId": null
+ }
+]

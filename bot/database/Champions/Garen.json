@@ -1,0 +1,86 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Garen Sanguinário",
+  "skinId": 86001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Garen Legião do Deserto",
+  "skinId": 86002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Patrulheiro Garen",
+  "skinId": 86003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Garen Cavaleiro do Terror",
+  "skinId": 86004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Garen Errante",
+  "skinId": 86005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Garen Legionário de Aço",
+  "skinId": 86006,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Garen Almirante Fugitivo",
+  "skinId": 86010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Garen Reinos Combatentes",
+  "skinId": 86011,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Deus-Rei Garen",
+  "skinId": 86013,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Garen Demacia Vice",
+  "skinId": 86014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Garen Reinos Mech",
+  "skinId": 86022,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Garen Reinos Mech de Prestígio",
+  "skinId": 86023,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Garen Academia de Batalha",
+  "skinId": 86024,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Garen Criador Mítico",
+  "skinId": 86033,
+  "championId": null
+ }
+]

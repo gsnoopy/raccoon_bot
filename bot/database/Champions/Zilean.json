@@ -1,0 +1,44 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Zilean Velho Noel",
+  "skinId": 26001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Zilean Maluco Beleza",
+  "skinId": 26002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Zilean do Deserto Shurima",
+  "skinId": 26003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Zilean da Máquina do Tempo",
+  "skinId": 26004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Zilean Lua Sangrenta",
+  "skinId": 26005,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Zilean Frenesi Açucarado",
+  "skinId": 26006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Zilean Bênção do Inverno",
+  "skinId": 26014,
+  "championId": null
+ }
+]

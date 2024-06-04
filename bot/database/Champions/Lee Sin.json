@@ -1,0 +1,104 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lee Sin Tradicional",
+  "skinId": 64001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lee Sin Acólito",
+  "skinId": 64002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lee Sin Punhos de Aço",
+  "skinId": 64003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lee Sin Muay Thai",
+  "skinId": 64004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lee Sin Curtindo o Verão",
+  "skinId": 64005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "SKT T1 Lee Sin",
+  "skinId": 64006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lee Sin Nocaute",
+  "skinId": 64010,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Lee Sin Punhos Divinos",
+  "skinId": 64011,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lee Sin Armador de Jogadas",
+  "skinId": 64012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lee Sin Emissário da Escuridão",
+  "skinId": 64027,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Lee Sin Emissário da Escuridão de Prestígio",
+  "skinId": 64028,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "FPX Lee Sin",
+  "skinId": 64029,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Lee Sin Dragão da Tormenta",
+  "skinId": 64031,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Lee Sin Emissário da Escuridão de Prestígio (2022)",
+  "skinId": 64039,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lee Sin Zenith Games",
+  "skinId": 64041,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Lee Sin Escamas Celestiais",
+  "skinId": 64051,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Lee Sin Escamas Celestiais Divinas",
+  "skinId": 64052,
+  "championId": null
+ }
+]

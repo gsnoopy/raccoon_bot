@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "EPIC",
+  "skinName": "Senna True Damage",
+  "skinId": 235001,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Senna True Damage de Prestígio",
+  "skinId": 235009,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Senna Velho Oeste",
+  "skinId": 235010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "PROJETO: Senna",
+  "skinId": 235016,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Senna Eclipse Lunar",
+  "skinId": 235026,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Senna Eclipse Lunar de Prestígio",
+  "skinId": 235027,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Senna Feiticeira",
+  "skinId": 235036,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Senna Guardiã Estelar",
+  "skinId": 235046,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Senna Bênção do Inverno",
+  "skinId": 235056,
+  "championId": null
+ }
+]

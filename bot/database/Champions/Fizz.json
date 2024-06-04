@@ -1,0 +1,74 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fizz Atlante",
+  "skinId": 105001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fizz da Tundra",
+  "skinId": 105002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fizz Pescador",
+  "skinId": 105003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fizz do Vazio",
+  "skinId": 105004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Fizz Pelo Branquinho",
+  "skinId": 105008,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fizz Supergaláctico",
+  "skinId": 105009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fizz Esquadrão Ômega",
+  "skinId": 105010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fizz Doguinho",
+  "skinId": 105014,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Fizz Doguinho de Prestígio",
+  "skinId": 105015,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lúcifizz",
+  "skinId": 105016,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Fizz Doguinho de Prestígio (2022)",
+  "skinId": 105025,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Fizz Astronauta",
+  "skinId": 105026,
+  "championId": null
+ }
+]

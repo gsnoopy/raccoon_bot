@@ -1,0 +1,44 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Braum Caçador de Dragões",
+  "skinId": 201001,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Braum El Tigre",
+  "skinId": 201002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Braum Coração de Leão",
+  "skinId": 201003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Braum Noel",
+  "skinId": 201010,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Braum Cidade do Crime",
+  "skinId": 201011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Braum Frenesi Açucarado",
+  "skinId": 201024,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Braum Curtindo o Verão",
+  "skinId": 201033,
+  "championId": null
+ }
+]

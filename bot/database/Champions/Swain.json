@@ -1,0 +1,44 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Swain da Fronteira Polar",
+  "skinId": 50001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Swain Águas de Sentina",
+  "skinId": 50002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Swain Tirano",
+  "skinId": 50003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Swain Mestre dos Dragões",
+  "skinId": 50004,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Swain Hextec",
+  "skinId": 50011,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Swain Rosa de Cristal",
+  "skinId": 50012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Swain Bênção do Inverno",
+  "skinId": 50021,
+  "championId": null
+ }
+]

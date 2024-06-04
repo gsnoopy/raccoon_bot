@@ -1,0 +1,56 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nautilus Abissal",
+  "skinId": 111001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nautilus Subterrâneo",
+  "skinId": 111002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "AstroNautilus",
+  "skinId": 111003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nautilus Vigia",
+  "skinId": 111004,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Nautilus Quebra-mundos",
+  "skinId": 111005,
+  "championId": null
+ },
+ {
+  "rarity": "RARE",
+  "skinName": "Nautilus Conquistador",
+  "skinId": 111006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nautilus Pergaminhos Shan Hai",
+  "skinId": 111009,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nautilus Noite Apavorante",
+  "skinId": 111018,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Nautilus Paladino Cósmico",
+  "skinId": 111027,
+  "championId": null
+ }
+]

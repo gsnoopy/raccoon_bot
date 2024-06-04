@@ -1,0 +1,50 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Lissandra Hematita",
+  "skinId": 127001,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lissandra Donzela de Ferro",
+  "skinId": 127002,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lissandra Cibernética",
+  "skinId": 127003,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lissandra Congregação das Bruxas",
+  "skinId": 127004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lissandra Cosmos Negro",
+  "skinId": 127012,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lissandra de Porcelana",
+  "skinId": 127023,
+  "championId": null
+ },
+ {
+  "rarity": "MYTHIC",
+  "skinName": "Lissandra de Porcelana de Prestígio",
+  "skinId": 127033,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Lissandra Embalos no Espaço",
+  "skinId": 127034,
+  "championId": null
+ }
+]

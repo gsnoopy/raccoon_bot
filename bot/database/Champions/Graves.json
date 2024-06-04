@@ -1,0 +1,80 @@
+[
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Graves Mercenário",
+  "skinId": 104001,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Graves Fugitivo",
+  "skinId": 104002,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Graves Cidade do Crime",
+  "skinId": 104003,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Riot Graves",
+  "skinId": 104004,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Graves Curtindo o Verão",
+  "skinId": 104005,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Graves Degolador",
+  "skinId": 104006,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Graves Dia Nevado",
+  "skinId": 104007,
+  "championId": null
+ },
+ {
+  "rarity": "DEFAULT",
+  "skinName": "Graves Vitorioso",
+  "skinId": 104014,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Graves Pretoriano",
+  "skinId": 104018,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Graves Professor da Academia",
+  "skinId": 104025,
+  "championId": null
+ },
+ {
+  "rarity": "LEGENDARY",
+  "skinName": "Graves Sentinela",
+  "skinId": 104035,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Graves EDG",
+  "skinId": 104042,
+  "championId": null
+ },
+ {
+  "rarity": "EPIC",
+  "skinName": "Graves de Porcelana",
+  "skinId": 104045,
+  "championId": null
+ }
+]
