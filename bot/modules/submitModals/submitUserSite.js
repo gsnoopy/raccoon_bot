@@ -9,7 +9,7 @@ async function submitUserSite(interaction) {
   try {
 
     const userSite = interaction.fields.getTextInputValue('userSiteInput');
-    const localStorage = new LocalStorage('../database/temp');
+    const localStorage = new LocalStorage('./temp');
     const premio = localStorage.getItem('valorGanho');
 
     const buttons = new Discord.ActionRowBuilder().addComponents(

@@ -10,22 +10,26 @@ async function deleteTicket(interaction) {
 
             const channel = interaction.channel;
 
-        const messages = await channel.messages.fetch({ limit: 1 });
-        const firstMessage = messages.first();
-        if (firstMessage) {
-            await firstMessage.delete();
-        }
-
-            interaction.editReply({content: "O canal será fechado em 3 segundos!"});
-            await transcriptMessages(interaction,channel,'1234748679261519893');
-                
-    
-        } catch (error) {
+            const button = new Discord.ActionRowBuilder().addComponents(
+                new Discord.ButtonBuilder()
+                  .setCustomId("deleteTicket")
+                  .setLabel("Fechar canal")
+                  .setEmoji("<:deleteAd:1199292226988154880>") 
+                  .setStyle(Discord.ButtonStyle.Primary)
+                  .setDisabled(true),
+              );
+              
+                await interaction.message.edit({ components: [button] });
+                interaction.editReply({content: "O canal será fechado em 3 segundos!"});
+                await transcriptMessages(interaction,channel,'1234748679261519893');
+                    
         
-            console.error('Erro ao processar botão "deleteTicket":', error);
-            await interaction.reply({ content: "Erro ao processar o botão deleteTicket.", ephemeral: true });
-        
-        }
+            } catch (error) {
+            
+                console.error('Erro ao processar botão "deleteTicket":', error);
+                await interaction.reply({ content: "Erro ao processar o botão deleteTicket.", ephemeral: true });
+            
+            }
     
 }
 

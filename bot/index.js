@@ -1,5 +1,6 @@
 const { Discord, Client, GatewayIntentBits } = require('./imports');
 const fs = require('fs');
+const cron = require('node-cron');
 
 const client = new Client({
   intents: [
@@ -62,9 +63,14 @@ client.on("ready", () => {
     verifyRandom(client)
     verifySkin(client)
     verifyBicho(client)
-    //sorteioBicho(client)
-  }, 15000);
-  sorteioBicho(client)
+  }, 5000);
+
+  cron.schedule('41 18 * * *', () => {
+    sorteioBicho(client);
+  }, {
+    scheduled: true,
+    timezone: "America/Sao_Paulo" // Ajuste para o seu fuso horário
+  });
 });
 
 client.on('interactionCreate', (interaction) => {
