@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "userId": "942516720453701723",
+    "username": "tigo0000",
+    "valor": 30,
+    "channelId": "1248179194429440101",
+    "paymentId": 79648189119,
+    "createdAt": "2024-06-06T07:38:31.217Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/79648189119/ticket?caller_id=1520892839&hash=e99fbc83-656f-45db-b2b9-8c6b23334d73",
+    "skinName": "Camille Cibernética"
+  },
+  {
+    "userId": "1063157317215997952",
+    "username": "raioirritaler2",
+    "valor": 35,
+    "channelId": "1248483786664972359",
+    "paymentId": 79734608677,
+    "createdAt": "2024-06-07T03:48:51.544Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/79734608677/ticket?caller_id=1520892839&hash=0db861c2-1735-4f83-8a21-e99cd81db47f",
+    "skinName": "Deus-Rei Darius"
+  },
+  {
+    "userId": "325596345417072640",
+    "username": "wilsonbenicio",
+    "valor": 27,
+    "channelId": "1249472657166962778",
+    "paymentId": 79941561967,
+    "createdAt": "2024-06-09T21:18:16.426Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/79941561967/ticket?caller_id=1520892839&hash=763f7c24-b63f-4346-964b-c745c92a6ded",
+    "skinName": "Hecarim-sem-Cabeça"
+  },
+  {
+    "userId": "325596345417072640",
+    "username": "wilsonbenicio",
+    "valor": 30,
+    "channelId": "1249813514625745090",
+    "paymentId": 80011284701,
+    "createdAt": "2024-06-10T19:52:43.478Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80011284701/ticket?caller_id=1520892839&hash=8256cb45-2a60-4b60-86d1-5226015dfc25",
+    "skinName": "Hecarim Fliperama"
+  },
+  {
+    "userId": "334029446283788290",
+    "username": "l.u.k.a.s0074",
+    "valor": 27,
+    "channelId": "1251354940379496470",
+    "paymentId": 80353131511,
+    "createdAt": "2024-06-15T01:57:47.886Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80353131511/ticket?caller_id=1520892839&hash=e1e7957f-3be7-4f99-b468-21b1d75cc42a",
+    "skinName": "Rengar Caçador de cabeças"
+  },
+  {
+    "userId": "325596345417072640",
+    "username": "wilsonbenicio",
+    "valor": 27,
+    "channelId": "1251579894417068164",
+    "paymentId": 80650633772,
+    "createdAt": "2024-06-15T16:51:41.059Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80650633772/ticket?caller_id=1520892839&hash=9cfb2ae8-08ea-4a3f-9b2d-e12c1bf586d4",
+    "skinName": "Hecarim Ceifador"
+  },
+  {
+    "userId": "895473567687389224",
+    "username": "jaybasedgod",
+    "valor": 27,
+    "channelId": "1252610840486740049",
+    "paymentId": 80572080469,
+    "createdAt": "2024-06-18T13:08:18.244Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80572080469/ticket?caller_id=1520892839&hash=bb542cff-32f5-431f-83cd-80a4067a4a70",
+    "skinName": "Talon SSW"
+  },
+  {
+    "userId": "733106637178535967",
+    "username": "offghostboy",
+    "valor": 35,
+    "channelId": "1253701497741508628",
+    "paymentId": 80788610007,
+    "createdAt": "2024-06-21T13:22:10.811Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80788610007/ticket?caller_id=1520892839&hash=c615a9ff-e2d3-4857-a226-2f68b0f3a995",
+    "skinName": "Sett Florescer Espiritual"
+  },
+  {
+    "userId": "307938546516361227",
+    "username": "zezekagold",
+    "valor": 35,
+    "channelId": "1255259994367201301",
+    "paymentId": 81348656736,
+    "createdAt": "2024-06-25T20:35:05.355Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/81348656736/ticket?caller_id=1520892839&hash=654e0f39-f40d-4fcd-beee-64a7b65fb6f6",
+    "skinName": "Ashe Velho Oeste"
+  },
+  {
+    "userId": "307938546516361227",
+    "username": "zezekagold",
+    "valor": 30,
+    "channelId": "1256419955717701695",
+    "paymentId": 81333997033,
+    "createdAt": "2024-06-29T01:24:21.757Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/81333997033/ticket?caller_id=1520892839&hash=96ef217d-dc0f-4c2d-8d06-7e4f622951c4",
+    "skinName": "Kai'Sa Escamas Celestiais"
+  },
+  {
+    "userId": "470341358293352466",
+    "username": "shadroka",
+    "valor": 30,
+    "channelId": "1258887128675258499",
+    "paymentId": 82131481790,
+    "createdAt": "2024-07-05T20:48:01.545Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/82131481790/ticket?caller_id=1520892839&hash=15f614ae-28c4-49dd-ab82-25e8ae2f7122",
+    "skinName": "IG Rakan"
+  },
+  {
+    "userId": "344925478945161218",
+    "username": "dankou2141",
+    "valor": 27,
+    "channelId": "1259258027047911585",
+    "paymentId": 81953081121,
+    "createdAt": "2024-07-06T21:21:50.660Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/81953081121/ticket?caller_id=1520892839&hash=f554b91b-7e08-4c9d-b31d-a2c83c95189c",
+    "skinName": "Hecarim-sem-Cabeça"
+  },
+  {
+    "userId": "307938546516361227",
+    "username": "zezekagold",
+    "valor": 30,
+    "channelId": "1260630401756561409",
+    "paymentId": 82501226870,
+    "createdAt": "2024-07-10T16:15:10.286Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/82501226870/ticket?caller_id=1520892839&hash=11c60af5-2d04-4f1d-9d2e-8af32a77d579",
+    "skinName": "Zeri Canção do Oceano"
+  },
+  {
+    "userId": "325596345417072640",
+    "username": "wilsonbenicio",
+    "valor": 27,
+    "channelId": "1261124771387543584",
+    "paymentId": 82629396074,
+    "createdAt": "2024-07-12T00:59:37.114Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/82629396074/ticket?caller_id=1520892839&hash=ff24f34d-fe0c-4966-936b-8c2b63ef6a55",
+    "skinName": "Hecarim-sem-Cabeça"
+  },
+  {
+    "userId": "1218354778686361641",
+    "username": "lunginfection",
+    "valor": 27,
+    "channelId": "1262193031038369883",
+    "paymentId": 82844093828,
+    "createdAt": "2024-07-14T23:44:30.114Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/82844093828/ticket?caller_id=1520892839&hash=122483b5-bf55-4b0d-b5ae-2098389f062a",
+    "skinName": "Kassadin Emissário das Trevas"
+  },
+  {
+    "userId": "307938546516361227",
+    "username": "zezekagold",
+    "valor": 30,
+    "channelId": "1263206883984936980",
+    "paymentId": 82787331585,
+    "createdAt": "2024-07-17T18:53:11.436Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/82787331585/ticket?caller_id=1520892839&hash=4e70c78a-c177-4cda-aef0-10e2eacbdafb",
+    "skinName": "Miss Fortune Curtindo o Verão"
+  }
+]

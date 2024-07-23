@@ -52,6 +52,7 @@ const { sorteioBicho } = require('./scripts/sorteioBicho');
 const { createSaldo } = require('./modules/createModals/createSaldo');
 const { submitUserSite } = require('./modules/submitModals/submitUserSite');
 const { pixChoice } = require('./modules/pressButtons/pixChoice');
+const { deleteBicho } = require('./modules/pressButtons/deleteBicho');
 
 
 client.on("ready", () => {
@@ -65,7 +66,7 @@ client.on("ready", () => {
     verifyBicho(client)
   }, 5000);
 
-  cron.schedule('41 18 * * *', () => {
+  cron.schedule('0 21 * * *', () => {
     sorteioBicho(client);
   }, {
     scheduled: true,
@@ -128,8 +129,11 @@ client.on('interactionCreate', (interaction) => {
         createSaldo(interaction);
         break;
       case 'pixChoice':
-        pixChoice(interaction)
+        pixChoice(interaction);
         break;
+      case 'deleteBicho':
+          deleteBicho(interaction);
+          break;
       default:
     }
   }
@@ -188,5 +192,5 @@ client.on('interactionCreate', (interaction) => {
 
 });
 
-client.login(process.env.TOKEN_TESTE);
+client.login(process.env.BOT_TESTES);
 module.exports = client;

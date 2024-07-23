@@ -61,12 +61,14 @@ async function verifyBicho(client) {
                     .setDescription(`Item: Jogo do Bicho\nUser: <@${userId}>\nBicho: ${bicho}\nValor: R$ ${valor}`);
 
                 let embed = new Discord.EmbedBuilder()
-                    .setTitle("Pagamento confirmado!")
-                    .setDescription("Aoba")
-                    .setColor('#008000');
+                    .setTitle("Obrigado por comprar conosco!")
+                    .setDescription(`Item: Jogo do Bicho\nUser: <@${userId}>\nBicho: ${bicho}\nValor: R$ ${valor}`)
+                    .setColor('#008000')
+                    .setThumbnail(`${thumbnailUrl}`)
+                    .setTimestamp();
 
                 // Enviando mensagem no channelId
-                const channel = client.channels.cache.get(channelId);
+                const channel = await client.channels.fetch(channelId);
                 if (channel) {
                     const user = await client.users.fetch(userId);
                     try{
@@ -94,11 +96,11 @@ async function verifyBicho(client) {
                 }
 
                 let embedBicho = new Discord.EmbedBuilder()
-                .setColor(0x8000FF)
-                  .setTitle("Jogo do Bicho")
-                  .setDescription(`${premio70Percent}`)
-                  //.setImage("https://media.discordapp.net/attachments/1230485567750537246/1245258089612181564/AWK_CHAT_BANNER.gif?ex=66581878&is=6656c6f8&hm=0a6561baf484437da7befd79586077648022a9dd27505093c576e736b3f52397&=&width=525&height=350")
-                  
+                    .setColor(0x8000FF)
+                    .setTitle("Jogo do Bicho!")
+                    .setDescription(`Tenha a oportunidade de ganhar saldo no site PresentesLOL ou receber via Pix direto na sua conta!\n\n**Como Funciona?**\n\n- Escolha um bicho para apostar\n- Efetue o pagamento da aposta\n- Aguarde o sorteio do bicho\n\n**Como Acontecem os Sorteios?**\n\n- Todos os dias às 21h. Caso o número mínimo de apostas não seja atingido, o sorteio será adiado para o dia seguinte.\n- Um dos animais comprados é sorteado, seguido pelo sorteio de um usuário que comprou esse animal específico. Animais não comprados não participam do sorteio\n\n**Prêmio Acumulado:**\n\nR$ ${premio70Percent},00`)
+                    .setThumbnail('https://cdn-store.leagueoflegends.co.kr/images/v2/emotes/1516.png')
+
                   const select = new StringSelectMenuBuilder()
                       .setCustomId('bichoChoice')
                       .setPlaceholder('Escolha o Bicho que deseja jogar!')
@@ -234,23 +236,12 @@ async function verifyBicho(client) {
                       .addComponents(select);
 
                 const channelID = '1247283398771343493'; // ID do canal
-                const messageIDToEdit = '1247308660749897762'
-                const channelEDIT = client.channels.cache.get(channelID);
+                const channelEDIT = await client.channels.fetch(channelID);
 
                 if (channelEDIT) {
-                    // Buscar a mensagem no canal
-                    channelEDIT.messages.fetch(messageIDToEdit)
-                        .then(message => {
-                            // Verificar se a mensagem foi encontrada
-                            if (message) {
-                                // Editar a mensagem
-                                message.edit({ embeds: [embedBicho], components: [row] });
-                                console.log('Mensagem editada com sucesso.');
-                            } else {
-                                console.error(`Mensagem com ID ${messageIDToEdit} não encontrada.`);
-                            }
-                        })
-                        .catch(console.error);
+                    const messageIDToEdit = '1248125613609320450';
+                    const messageToEdit = await channelEDIT.messages.fetch(messageIDToEdit);
+                    await messageToEdit.edit({ embeds: [embedBicho], components: [row] });
                 } else {
                     console.error(`Canal com ID ${channelID} não encontrado.`);
                 }
@@ -259,7 +250,7 @@ async function verifyBicho(client) {
                 pagAtivosContent = pagAtivosContent.filter(item => item.paymentId !== paymentId);
                 fs.writeFileSync(pagAtivosFilePath, JSON.stringify(pagAtivosContent, null, 2));
 
-                const channel = client.channels.cache.get(channelId);
+                const channel = await client.channels.fetch(channelId);
                 if (channel) {
                     await channel.send(`Pagamento expirado! Este canal será fechado em breve.`);
                 }

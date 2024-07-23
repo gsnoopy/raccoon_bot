@@ -120,7 +120,7 @@ async function selectBicho(interaction, bicho) {
       const embed = new EmbedBuilder()
         .setColor(0x030303)
         .setTitle(`ID: ${paymentID}`)
-        .setDescription(`Você deseja comprar uma entrada para o jogo do bicho utilizando o bicho **${bichoName}** por: ** R$ ${transactionAmount} **\nRealize o pagamento através do QR Code para continuar, caso esteja no celular, clique no botão abaixo para ser direcionado ao Mercado Pago`)
+        .setDescription(`Você deseja comprar uma entrada para o jogo do bicho utilizando **${bichoName}** por: ** R$ ${transactionAmount}. **\n\nRealize o pagamento através do QR Code para continuar, caso esteja no celular, clique no botão abaixo para ser direcionado ao Mercado Pago.\n\n**Por favor, lembre-se de deixar sua DM aberta para que possa receber o comprovante da compra!**`)
         .setThumbnail('attachment://qrcode.png');
 
       const buttons = new ActionRowBuilder().addComponents(
@@ -129,7 +129,7 @@ async function selectBicho(interaction, bicho) {
           .setURL(`${ticketUrl}`)
           .setStyle(ButtonStyle.Link),
         new Discord.ButtonBuilder()
-          .setCustomId("deleteSkins")
+          .setCustomId("deleteBicho")
           .setLabel("Cancelar compra")
           .setEmoji("<:lockWhite:1234743193409552414>") 
           .setStyle(Discord.ButtonStyle.Danger),
@@ -138,7 +138,7 @@ async function selectBicho(interaction, bicho) {
       channel.send({ embeds: [embed], components: [buttons], files: [file] })
 
       await interaction.editReply({ 
-        content: `Seu ticket para compra de smurf foi aberto no canal: ${channel}!`, 
+        content: `Seu ticket para compra de jogo do bicho foi aberto no canal: ${channel}!`, 
         ephemeral: true 
       });
 

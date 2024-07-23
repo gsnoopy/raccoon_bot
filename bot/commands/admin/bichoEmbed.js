@@ -15,10 +15,10 @@ module.exports = {
     } else {
 
       let embed = new Discord.EmbedBuilder()
-      .setColor(0x8000FF)
-        .setTitle("Jogo do Bicho")
-        .setDescription("Teste")
-        //.setImage("https://media.discordapp.net/attachments/1230485567750537246/1245258089612181564/AWK_CHAT_BANNER.gif?ex=66581878&is=6656c6f8&hm=0a6561baf484437da7befd79586077648022a9dd27505093c576e736b3f52397&=&width=525&height=350")
+        .setColor(0x8000FF)
+        .setTitle("Jogo do Bicho!")
+        .setDescription("Tenha a oportunidade de ganhar saldo no site PresentesLOL ou receber via Pix direto na sua conta!\n\n**Como Funciona?**\n\n- Escolha um bicho para apostar\n- Efetue o pagamento da aposta\n- Aguarde o sorteio do bicho\n\n**Como Acontecem os Sorteios?**\n\n- Todos os dias às 21h. Caso o número mínimo de apostas não seja atingido, o sorteio será adiado para o dia seguinte.\n- Um dos animais comprados é sorteado, seguido pelo sorteio de um usuário que comprou esse animal específico. Animais não comprados não participam do sorteio\n\n**Prêmio Acumulado:**\n\nR$ 7,00")
+        .setThumbnail('https://cdn-store.leagueoflegends.co.kr/images/v2/emotes/1516.png')
         
         const select = new StringSelectMenuBuilder()
             .setCustomId('bichoChoice')

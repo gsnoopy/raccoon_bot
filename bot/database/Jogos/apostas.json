@@ -1,122 +1,32 @@
 [
   {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
+    "userId": "1232721910098296923",
+    "username": "saposeno",
     "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Barata"
+    "channelId": "1250567366107074622",
+    "paymentId": 80177700217,
+    "createdAt": "2024-06-12T21:48:15.349Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80177700217/ticket?caller_id=1520892839&hash=64fc9a29-e660-45d2-9833-dd1ff20a3ca5",
+    "bicho": "Sapo"
   },
   {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
+    "userId": "268865850155597824",
+    "username": "lelis",
     "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Barata"
+    "channelId": "1251025947768127569",
+    "paymentId": 80275421167,
+    "createdAt": "2024-06-14T04:10:30.024Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80275421167/ticket?caller_id=1520892839&hash=4d248242-1e05-445f-a8c3-5231d1a35d20",
+    "bicho": "Raposa"
   },
   {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
+    "userId": "467487586890285076",
+    "username": "fada7494",
     "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Bode"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
-  },
-  {
-    "userId": "1230446312810479646",
-    "username": "awkraccoon",
-    "valor": 1,
-    "channelId": "1247393227129225288",
-    "paymentId": 79481091357,
-    "createdAt": "2024-06-04T03:35:28.363Z",
-    "ticketUrl": "https://www.mercadopago.com.br/payments/79481091357/ticket?caller_id=1520892839&hash=669e6dee-7f13-45e1-b1e2-e1eff684461b",
-    "bicho": "Elefante"
+    "channelId": "1251031407333998632",
+    "paymentId": 80536620888,
+    "createdAt": "2024-06-14T04:32:11.554Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80536620888/ticket?caller_id=1520892839&hash=4f33744e-0b70-41e2-86b7-32663b9f8470",
+    "bicho": "Vaca"
   }
 ]

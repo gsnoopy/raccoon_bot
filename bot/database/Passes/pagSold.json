@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "userId": "398288867255648257",
+    "username": ".youkaii",
+    "valor": 20,
+    "channelId": "1249071034573918291",
+    "paymentId": 79864221909,
+    "createdAt": "2024-06-08T18:42:22.354Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/79864221909/ticket?caller_id=1520892839&hash=7e564027-4ca1-4147-9813-edb3d8ada868"
+  },
+  {
+    "userId": "411714600690515968",
+    "username": "notmoonbath",
+    "valor": 20,
+    "channelId": "1251251099114016868",
+    "paymentId": 80318340359,
+    "createdAt": "2024-06-14T19:05:10.047Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80318340359/ticket?caller_id=1520892839&hash=71ef19e3-7661-4731-ba96-1189a0e2fa62"
+  },
+  {
+    "userId": "234443456028737537",
+    "username": "selfless.oxy",
+    "valor": 20,
+    "channelId": "1252354294787870771",
+    "paymentId": 80794393238,
+    "createdAt": "2024-06-17T20:08:52.665Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80794393238/ticket?caller_id=1520892839&hash=5afedbe3-3536-4dda-89c7-ff917b1a537f"
+  },
+  {
+    "userId": "301369978891010048",
+    "username": "hyojinhydra",
+    "valor": 20,
+    "channelId": "1252394398478762054",
+    "paymentId": 80805691718,
+    "createdAt": "2024-06-17T22:48:14.042Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80805691718/ticket?caller_id=1520892839&hash=9412133a-9ce0-4439-97b7-866244345d57"
+  },
+  {
+    "userId": "592158930201739264",
+    "username": "mcigu1_1",
+    "valor": 20,
+    "channelId": "1257143952805593210",
+    "paymentId": 81734569558,
+    "createdAt": "2024-07-01T01:21:15.922Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/81734569558/ticket?caller_id=1520892839&hash=186fb603-c803-48a5-ac04-f9a7cf691656"
+  },
+  {
+    "userId": "480178984399929376",
+    "username": "pongass",
+    "valor": 20,
+    "channelId": "1257564727517646880",
+    "paymentId": 81821783424,
+    "createdAt": "2024-07-02T05:13:16.463Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/81821783424/ticket?caller_id=1520892839&hash=af43e82e-42c0-484e-a81d-f83067f3ff00"
+  }
+]

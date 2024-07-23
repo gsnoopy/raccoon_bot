@@ -8,7 +8,7 @@ async function submitChampions(interaction, client) {
     await interaction.deferReply({ ephemeral: true });
 
     try {
-        const champion = interaction.fields.getTextInputValue('championInput').toLowerCase();
+        const champion = interaction.fields.getTextInputValue('championInput');
         const filePath = path.join(__dirname, `../../database/Champions/${champion}.json`);
 
         if (!fs.existsSync(filePath)) {

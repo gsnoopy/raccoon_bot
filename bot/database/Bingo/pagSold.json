@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "userId": "1244725055196500029",
+    "username": "kelvindelroy",
+    "valor": 5,
+    "channelId": "1251232330656387092",
+    "paymentId": 80312519183,
+    "createdAt": "2024-06-14T17:50:35.583Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80312519183/ticket?caller_id=1520892839&hash=0341cf0b-ab25-47b9-a200-a39f5d99cc5c"
+  },
+  {
+    "userId": "686201338148946121",
+    "username": "lilith_asami",
+    "valor": 5,
+    "channelId": "1251235953423548468",
+    "paymentId": 80574886640,
+    "createdAt": "2024-06-14T18:05:00.780Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80574886640/ticket?caller_id=1520892839&hash=527dfe7a-a330-41a6-8018-5b85d8169c3b"
+  },
+  {
+    "userId": "653095895105142794",
+    "username": "wkoeuplikethis",
+    "valor": 5,
+    "channelId": "1251263009935065273",
+    "paymentId": 80322252107,
+    "createdAt": "2024-06-14T19:52:29.975Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80322252107/ticket?caller_id=1520892839&hash=e00d0037-d93a-44b8-a7b1-e7f086010975"
+  },
+  {
+    "userId": "876220657615134731",
+    "username": "jair.zinho",
+    "valor": 5,
+    "channelId": "1251595109640704163",
+    "paymentId": 80655624946,
+    "createdAt": "2024-06-15T17:52:09.056Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80655624946/ticket?caller_id=1520892839&hash=32100c56-4043-49ab-97e3-323f45e8fe15"
+  },
+  {
+    "userId": "470341358293352466",
+    "username": "shadroka",
+    "valor": 5,
+    "channelId": "1251621552454107136",
+    "paymentId": 80402198601,
+    "createdAt": "2024-06-15T19:37:13.256Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80402198601/ticket?caller_id=1520892839&hash=cd2691fa-63b9-4761-b27a-82deab83c66d"
+  },
+  {
+    "userId": "316718090794696706",
+    "username": "ryota_suzui",
+    "valor": 5,
+    "channelId": "1251647308894961735",
+    "paymentId": 80671799444,
+    "createdAt": "2024-06-15T21:19:34.007Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80671799444/ticket?caller_id=1520892839&hash=a6c54ef5-ee16-42d6-96b0-9324c5bbade7"
+  },
+  {
+    "userId": "251397324763430912",
+    "username": "claudinho0155",
+    "valor": 5,
+    "channelId": "1251654994285826210",
+    "paymentId": 80674591990,
+    "createdAt": "2024-06-15T21:50:06.276Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80674591990/ticket?caller_id=1520892839&hash=08eaf80f-4fe2-40e3-abe8-b525fc89e2eb"
+  },
+  {
+    "userId": "1035134141227864104",
+    "username": ".himie",
+    "valor": 5,
+    "channelId": "1251656440943349760",
+    "paymentId": 80414025437,
+    "createdAt": "2024-06-15T21:55:51.193Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80414025437/ticket?caller_id=1520892839&hash=e1d23f4d-a553-4f75-9f2f-a16e02405e17"
+  },
+  {
+    "userId": "470341358293352466",
+    "username": "shadroka",
+    "valor": 5,
+    "channelId": "1251658717171159161",
+    "paymentId": 80414611975,
+    "createdAt": "2024-06-15T22:04:53.924Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80414611975/ticket?caller_id=1520892839&hash=8b75e10c-2d78-4f00-a899-1fca56aa2459"
+  },
+  {
+    "userId": "527514187421843456",
+    "username": "hyvriz",
+    "valor": 5,
+    "channelId": "1251659440449388608",
+    "paymentId": 80415468795,
+    "createdAt": "2024-06-15T22:07:46.354Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80415468795/ticket?caller_id=1520892839&hash=c6558184-a640-4a7e-a7f8-e3bb84b653e3"
+  },
+  {
+    "userId": "251713097905995776",
+    "username": "xuas",
+    "valor": 5,
+    "channelId": "1251670130287579157",
+    "paymentId": 80680463202,
+    "createdAt": "2024-06-15T22:50:15.205Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80680463202/ticket?caller_id=1520892839&hash=c1b50846-5236-4196-8c2d-00e5d74b99f2"
+  },
+  {
+    "userId": "1181761588550705183",
+    "username": "xere_lere1",
+    "valor": 5,
+    "channelId": "1251671929933271242",
+    "paymentId": 80419970967,
+    "createdAt": "2024-06-15T22:57:24.313Z",
+    "ticketUrl": "https://www.mercadopago.com.br/payments/80419970967/ticket?caller_id=1520892839&hash=bddf4add-5ad2-45d2-be60-896b1043a8ca"
+  }
+]
